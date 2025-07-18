@@ -20,7 +20,7 @@ npm install express
 
 ## GitHub Repository Setup
 
-Created a new repo: https://github.com/<your-username>/<repo-name>
+Created a new repo: (https://github.com/Rishitha2000-02/workflow)
 
 Pushed all files including .github/workflows/deploy.yml
 
@@ -33,7 +33,7 @@ Configured automatic redeployment on push
 
 ## Live link: https://ci-cd-web-task2.onrender.com
 
-## GitHub Actions Workflow Success
+## GitHub Actions Workflow Success(SCREENSHOT)
 
 - name: Checkout code
   uses: actions/checkout@v2
@@ -57,7 +57,7 @@ Configured automatic redeployment on push
 
 <img width="1362" height="840" alt="Image" src="https://github.com/user-attachments/assets/75de7451-ff54-4516-bd73-88cb21d4f393" />
 
-## GitHub Repo with .yml File
+## GitHub Repo https://github.com/Rishitha2000-02/workflow  with .yml File SCREENSHOT
 
 <img width="1872" height="877" alt="image" src="https://github.com/user-attachments/assets/cdc309d5-3c93-4039-b591-f031bebce8ee" />
 
