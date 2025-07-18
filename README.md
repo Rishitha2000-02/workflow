@@ -22,7 +22,7 @@ npm install express
 
 Created a new repo: https://github.com/<your-username>/<repo-name>
 
-Pushed all files including .github/workflows/main.yml
+Pushed all files including .github/workflows/deploy.yml
 
 Deploy Using GitHub Page Render
 Deployed the app using deployment service
